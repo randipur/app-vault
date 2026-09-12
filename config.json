@@ -9,7 +9,7 @@
     "cloudinary_preset": "myupload7",
     "cloudinary_folder": "admin_gallery7"
   },
-  "admin_2": {
+  "admin_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
     "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com",
