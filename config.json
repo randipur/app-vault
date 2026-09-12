@@ -1,12 +1,12 @@
 {
   "user_1": {
     "is_enabled": true,
-    "firebase_url": "https://your-default-rdbtd.firebaseio.com/",
-    "project_id": "Randiroona",
-    "application_id": "com.user",
-    "api_key": "your_api_key_here",
-    "cloud_name": "your_cloudinary_name",
-    "cloudinary_preset": "your_preset",
-    "cloudinary_folder": "admin_gallery4"
+    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com",
+    "project_id": "server-07-6f0b7",
+    "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
+    "api_key": "AIzaSyCL2xFzGWF4j59k9I4cLH13Z1vW4NyeKzw",
+    "cloud_name": "wjori9a8",
+    "cloudinary_preset": "myupload7",
+    "cloudinary_folder": "admin_galleryu"
   }
 }
