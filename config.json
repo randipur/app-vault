@@ -1,0 +1,12 @@
+{
+  "user_1": {
+    "is_enabled": true,
+    "firebase_url": "https://your-default-rdbtd.firebaseio.com/",
+    "project_id": "your-project-id",
+    "application_id": "com.user",
+    "api_key": "your_api_key_here",
+    "cloud_name": "your_cloudinary_name",
+    "cloudinary_preset": "your_preset",
+    "cloudinary_folder": "admin_gallery4"
+  }
+}
