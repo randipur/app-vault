@@ -142,5 +142,21 @@
     "expiry_date": "2026-12-31",
     "firebase_url": "https://server-09-d346e-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec"
+  },
+  "user_10": {
+    "is_enabled": true,
+    "firebase_url": "https://server-10-fea47-default-rtdb.firebaseio.com",
+    "project_id": "server-10-fea47",
+    "application_id": "1:904932875134:android:b21ce90825f16e5e92b12f",
+    "api_key": "AIzaSyCmNU6mQWZprCqucgjMKzYcY1aDqZf3qVs",
+    "cloud_name": "wjori9a8",
+    "cloudinary_preset": "myupload10",
+    "cloudinary_folder": "admin_gallery10"
+  },
+  "admin_10": {
+    "is_enabled": true,
+    "expiry_date": "2026-12-31",
+    "firebase_url": "https://server-10-fea47-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec"
   }
 }
