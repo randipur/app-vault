@@ -145,10 +145,10 @@
   },
   "user_10": {
     "is_enabled": true,
-    "firebase_url": "https://server-10-fea47-default-rtdb.firebaseio.com",
-    "project_id": "server-10-fea47",
-    "application_id": "1:904932875134:android:b21ce90825f16e5e92b12f",
-    "api_key": "AIzaSyCmNU6mQWZprCqucgjMKzYcY1aDqZf3qVs",
+    "firebase_url": "https://project-10-7d79b-default-rtdb.firebaseio.com",
+    "project_id": "project-10-7d79b",
+    "application_id": "1:405787074662:android:8441092964c3518e210da7",
+    "api_key": "AIzaSyAc4s2I-apFB9H1sUq1ToRlk4Hso1E8uVc",
     "cloud_name": "wjori9a8",
     "cloudinary_preset": "myupload10",
     "cloudinary_folder": "admin_gallery10"
@@ -156,7 +156,7 @@
   "admin_10": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://server-10-fea47-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-10-7d79b-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/AKfycbxNMk0rY1d92mI7oAl69T2MzjRNxBjaAHiSsR3-XMWWGvodblxtIzFdBoDvdpuvwA/exec"
   },
   "user_11": {
