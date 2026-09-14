@@ -81,10 +81,10 @@
   },
   "user_6": {
     "is_enabled": true,
-    "firebase_url": "https://server-003-eb03f-default-rtdb.firebaseio.com",
-    "project_id": "server-003-eb03f",
-    "application_id": "1:293161636190:android:3f55317251b2a3d337ffcf",
-    "api_key": "AIzaSyAb18muYcgPJ_dUbCFT2_0G5dvX-ker8zs",
+    "firebase_url": "https://project-06-90a1d-default-rtdb.firebaseio.com",
+    "project_id": "project-06-90a1d",
+    "application_id": "1:371470807255:android:238df85db4105123ac4092",
+    "api_key": "",
     "cloud_name": "wjori9a8",
     "cloudinary_preset": "myupload6",
     "cloudinary_folder": "admin_gallery6"
@@ -92,15 +92,15 @@
   "admin_6": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://server-003-eb03f-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-06-90a1d-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/AKfycbwhvyOLhEg5Yqyg9ayraOmqBvBaRVEVmkxtnErnd9nyls-5TYzYl4ZfDyxpLYZY7W68aw/exec"
   },
   "user_7": {
     "is_enabled": true,
-    "firebase_url": "https://server-002-b1f9d-default-rtdb.firebaseio.com",
-    "project_id": "server-002-b1f9d",
-    "application_id": "1:1010619502264:android:8c1fb6f0c98fbdcbc22e4d",
-    "api_key": "AIzaSyAE9ir92gmRW7xnO5e-2olWKXRd1eoeemg",
+    "firebase_url": "https://project-07-be61e-default-rtdb.firebaseio.com",
+    "project_id": "project-07-be61e",
+    "application_id": "1:1054694341652:android:3e01b266b29635ccab7b01",
+    "api_key": "AIzaSyBLdH73OG1sEglUAryIm11B1BoVYwTTUCk",
     "cloud_name": "wjori9a8",
     "cloudinary_preset": "myupload7",
     "cloudinary_folder": "admin_gallery7"
@@ -108,7 +108,7 @@
   "admin_7": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://server-002-b1f9d-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-07-be61e-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/AKfycbwjk6vOqZdGg-oMoU90Nj-4spiBr0UfJuHZAbFF6Vb7BdI5AWu-8aE1KRPKcN8bNiuMxQ/exec"
   },
   "user_8": {
