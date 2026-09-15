@@ -108,7 +108,7 @@
   "admin_7": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-07-be61e-default-rtdb.firebaseio.com",
+    "firebase_url": "https://server-002-b1f9d-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/AKfycbwjk6vOqZdGg-oMoU90Nj-4spiBr0UfJuHZAbFF6Vb7BdI5AWu-8aE1KRPKcN8bNiuMxQ/exec"
   },
   "user_8": {
