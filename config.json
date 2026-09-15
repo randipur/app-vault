@@ -97,10 +97,10 @@
   },
   "user_7": {
     "is_enabled": true,
-    "firebase_url": "https://project-07-be61e-default-rtdb.firebaseio.com",
-    "project_id": "project-07-be61e",
-    "application_id": "1:1054694341652:android:3e01b266b29635ccab7b01",
-    "api_key": "AIzaSyBLdH73OG1sEglUAryIm11B1BoVYwTTUCk",
+    "firebase_url": "https://server-002-b1f9d-default-rtdb.firebaseio.com/",
+    "project_id": "server-002-b1f9d",
+    "application_id": "1:1010619502264:android:8c1fb6f0c98fbdcbc22e4d",
+    "api_key": "AIzaSyAE9ir92gmRW7xnO5e-2olWKXRd1eoeemg",
     "cloud_name": "wjori9a8",
     "cloudinary_preset": "myupload7",
     "cloudinary_folder": "admin_gallery7"
