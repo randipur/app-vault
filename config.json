@@ -206,5 +206,15 @@
     "expiry_date": "2026-12-31",
     "firebase_url": "https://project-13-eb704-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec"
+  },
+  "user_14": {
+    "is_enabled": true,
+    "firebase_url": "https://project-07-be61e-default-rtdb.firebaseio.com",
+    "project_id": "project-07-be61e",
+    "application_id": "1:1054694341652:android:3e01b266b29635ccab7b01",
+    "api_key": "AIzaSyBLdH73OG1sEglUAryIm11B1BoVYwTTUCk",
+    "cloud_name": "wjori9a8",
+    "cloudinary_preset": "myupload7",
+    "cloudinary_folder": "admin_gallery7"
   }
 }
