@@ -221,6 +221,8 @@
     "is_enabled": true,
     "expiry_date": "2026-12-31",
     "firebase_url": "https://project-07-be61e-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec"
+    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "password": "915594",
+    "admin_msg": "Contact devloper"
   }
 }
