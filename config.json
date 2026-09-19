@@ -9,12 +9,6 @@
     "cloudinary_preset": "myupload2",
     "cloudinary_folder": "admin_gallery2"
   },
-  "Sbi-ad_1": {
-    "is_enabled": true,
-    "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-01-a8ea4-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec"
-  },
   "Sbi_2": {
     "is_enabled": true,
     "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
@@ -410,5 +404,13 @@
     "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
+  },
+  "sbi_ad1": {
+    "is_enabled": true,
+    "expiry_date": "2026-12-31",
+    "firebase_url": "https://project-01-a8ea4-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "password": "",
+    "admin_msg": ""
   }
 }
