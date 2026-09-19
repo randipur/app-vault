@@ -1,7 +1,7 @@
 {
   "Sbi_1": {
     "is_enabled": true,
-    "firebase_url": "https://project-01-a8ea4-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-01-a8ea4-default-rtdb.firebaseio.com",
     "project_id": "project-01-a8ea4",
     "application_id": "1:23127058392:android:ad329449cd84ce8977b4ad",
     "api_key": "AIzaSyDTvJGZM5JrA9ig0RpVr3i1UFZ2odU96ig",
@@ -11,7 +11,7 @@
   },
   "Sbi_2": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -22,14 +22,14 @@
   "Sbi-ad_2": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "Sbi_3": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -40,14 +40,14 @@
   "Sbi-ad_3": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "Rbl_1": {
     "is_enabled": true,
-    "firebase_url": "https://project-02-af679-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-02-af679-default-rtdb.firebaseio.com",
     "project_id": "project-02-af679",
     "application_id": "1:546705956614:android:eccd8048e25e87ce11c887",
     "api_key": "AIzaSyDPS_kBgL-UMe6gSB_a8AHofFwZ_P8ytqc",
@@ -58,14 +58,14 @@
   "Rbl-ad_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-02-af679-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/project-02-af679-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "Rbl_2": {
     "is_enabled": true,
-    "firebase_url": "https://project-09-51374-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-09-51374-default-rtdb.firebaseio.com",
     "project_id": "project-09-51374",
     "application_id": "1:940181394986:android:22d8434faeacfaee7f9553",
     "api_key": "AIzaSyCv3uG_cfOZUrwIZG04YYLB4fNyXhoxnoA",
@@ -76,14 +76,14 @@
   "Rbl-ad_2": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-09-51374-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/project-09-51374-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "Rbl_3": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -94,14 +94,14 @@
   "Rbl-ad_3": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Yes_1": {
     "is_enabled": true,
-    "firebase_url": "https://project-03-1eb2d-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-03-1eb2d-default-rtdb.firebaseio.com",
     "project_id": "project-03-1eb2d",
     "application_id": "1:435772251455:android:66baf7873da81248f6c78a",
     "api_key": "AIzaSyDNrLtXDA4q1nau0AMbuov_-FnJb4oVEj8",
@@ -112,14 +112,14 @@
   "Yes-ad_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-03-1eb2d-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
-    "password": "977181",
+    "firebase_url": "https:\/\/project-03-1eb2d-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
+    "password": "A@123456",
     "admin_msg": ""
   },
   "Yes_2": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -130,14 +130,14 @@
   "Yes-ad_2": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Yes_3": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -148,14 +148,14 @@
   "Yes-ad_3": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Indus_1": {
     "is_enabled": true,
-    "firebase_url": "https://project-04-aa413-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-04-aa413-default-rtdb.firebaseio.com",
     "project_id": "project-04-aa413",
     "application_id": "1:292482766805:android:f4acdb1eae7815fcee0f5c",
     "api_key": "AIzaSyCFAbgHDbvQF_bYSiWcMEx34FzPRu5eNFY",
@@ -166,14 +166,14 @@
   "Indus-ad_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-04-aa413-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/project-04-aa413-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "Indus_2": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -184,14 +184,14 @@
   "Indus-ad_2": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Indus_3": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -202,14 +202,14 @@
   "Indus-ad_3": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Bob_1": {
     "is_enabled": true,
-    "firebase_url": "https://project-05-e4553-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-05-e4553-default-rtdb.firebaseio.com",
     "project_id": "project-05-e4553",
     "application_id": "1:760441809455:android:04425f4c2090f151df74da",
     "api_key": "AIzaSyDY_xL8KUjTCCvC4uZKmQg9j9HB7Nrw57A",
@@ -220,14 +220,14 @@
   "Bob-ad_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-05-e4553-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/project-05-e4553-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "Bob_2": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -238,14 +238,14 @@
   "Bob-ad_2": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Bob_3": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -256,14 +256,14 @@
   "Bob-ad_3": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Idfc_1": {
     "is_enabled": true,
-    "firebase_url": "https://project-06-90a1d-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-06-90a1d-default-rtdb.firebaseio.com",
     "project_id": "project-06-90a1d",
     "application_id": "1:371470807255:android:238df85db4105123ac4092",
     "api_key": "AIzaSyDV26eDeOO7ly-MWXrPWutBeebIBIjXiiY",
@@ -274,14 +274,14 @@
   "Idfc-ad_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-06-90a1d-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/project-06-90a1d-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "Idfc_2": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -292,14 +292,14 @@
   "Idfc-ad_2": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Idfc_3": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -310,14 +310,14 @@
   "Idfc-ad_3": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Hdfc_1": {
     "is_enabled": true,
-    "firebase_url": "https://project-07-be61e-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-07-be61e-default-rtdb.firebaseio.com",
     "project_id": "project-07-be61e",
     "application_id": "1:1054694341652:android:3e01b266b29635ccab7b01",
     "api_key": "AIzaSyBLdH73OG1sEglUAryIm11B1BoVYwTTUCk",
@@ -328,14 +328,14 @@
   "Hdfc-ad_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-07-be61e-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/project-07-be61e-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "Hdfc_2": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -346,14 +346,14 @@
   "Hdfc-ad_2": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "Hdfc_3": {
     "is_enabled": true,
-    "firebase_url": "https://server-07-6f0b7-default-rtdb.firebaseio.com/",
+    "firebase_url": "https:\/\/server-07-6f0b7-default-rtdb.firebaseio.com\/",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
@@ -364,38 +364,38 @@
   "Hdfc-ad_3": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "axis_ad_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-08-16f8f-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/project-08-16f8f-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "axis_ad_2": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-11-2a649-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/project-11-2a649-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "axis_ad_3": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "axis_1": {
     "is_enabled": true,
-    "firebase_url": "https://project-08-16f8f-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-08-16f8f-default-rtdb.firebaseio.com",
     "project_id": "project-08-16f8f",
     "application_id": "1:644639545691:android:ab3cf1d96147af1a6ea27e",
     "api_key": "AIzaSyBDPXiMPmhIuKpqz_RqzIjJI2uN2NryAlU",
@@ -406,22 +406,22 @@
   "axis_3": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://your-database-name-default-rtdb.firebaseio.com/",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/your-database-name-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "AdminPassword123",
     "admin_msg": "Welcome to Secure Admin Panel!"
   },
   "sbi_ad1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-01-a8ea4-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "firebase_url": "https:\/\/project-01-a8ea4-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk\/exec",
     "password": "977181",
     "admin_msg": ""
   },
   "axis_2": {
     "is_enabled": true,
-    "firebase_url": "https://project-11-2a649-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-11-2a649-default-rtdb.firebaseio.com",
     "project_id": "project-11-2a649",
     "application_id": "1:341570717689:android:55eaa9bd568b2beb421f28",
     "api_key": "AIzaSyCQ2__kxy8Z2EaDix9zArhy4ZiuarmlXSk",
