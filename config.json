@@ -432,12 +432,14 @@
   "admin_10": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-03-1eb2d-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec"
+    "firebase_url": "https://project-10-7d79b-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
+    "password": "",
+    "admin_msg": ""
   },
   "user_10": {
     "is_enabled": true,
-    "firebase_url": "https://project-03-1eb2d-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-10-7d79b-default-rtdb.firebaseio.com",
     "project_id": "server-07-6f0b7",
     "application_id": "1:65557442056:android:ab547755642a418e4c6bbd",
     "api_key": "AIzaSyCL2xFzGWF4j59kI4cLH1Z1vW4NyEkZw",
