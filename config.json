@@ -375,7 +375,7 @@
     "firebase_url": "https://project-08-16f8f-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
     "password": "915594",
-    "admin_msg": "Welcome to Secure Admin Panel!"
+    "admin_msg": ""
   },
   "axis_ad_2": {
     "is_enabled": true,
