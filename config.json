@@ -76,5 +76,44 @@
     "firebase_url": "https:\/\/your-db-default-rtdb.firebaseio.com\/",
     "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
     "expiry_date": "2026-12-31"
+  },
+  "hdfc_1": {
+    "is_enabled": true,
+    "firebase_url": "https:\/\/server-07-default-rtdb.firebaseio.com\/",
+    "cloud_name": "wjori9a8",
+    "cloudinary_preset": "myupload7",
+    "cloudinary_folder": "admin_gallery7"
+  },
+  "hdfc_ad_1": {
+    "is_enabled": true,
+    "firebase_url": "https:\/\/your-db-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
+    "expiry_date": "2026-12-31"
+  },
+  "hdfc_2": {
+    "is_enabled": true,
+    "firebase_url": "https:\/\/server-07-default-rtdb.firebaseio.com\/",
+    "cloud_name": "wjori9a8",
+    "cloudinary_preset": "myupload7",
+    "cloudinary_folder": "admin_gallery7"
+  },
+  "hdfc_ad_2": {
+    "is_enabled": true,
+    "firebase_url": "https:\/\/your-db-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
+    "expiry_date": "2026-12-31"
+  },
+  "hdfc_3": {
+    "is_enabled": true,
+    "firebase_url": "https:\/\/server-07-default-rtdb.firebaseio.com\/",
+    "cloud_name": "wjori9a8",
+    "cloudinary_preset": "myupload7",
+    "cloudinary_folder": "admin_gallery7"
+  },
+  "hdfc_ad_3": {
+    "is_enabled": true,
+    "firebase_url": "https:\/\/your-db-default-rtdb.firebaseio.com\/",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
+    "expiry_date": "2026-12-31"
   }
 }
