@@ -461,8 +461,12 @@
     "is_enabled": true,
     "expiry_date": "2026-12-31",
     "firebase_url": "https://project-12-ff920-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec",
-    "password": "AdminPassword123",
-    "admin_msg": "Welcome to Secure Admin Panel!"
+    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec"
+  },
+  "ad_1": {
+    "is_enabled": true,
+    "expiry_date": "2026-12-31",
+    "firebase_url": "https://project-12-ff920-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/AKfycbz_4ToNfnGeRZPFdvuXmpdHXaxPh7tKKGDY7WH9MlQt2WYO4w5jfhs_2A4QMqhlFrOk/exec"
   }
 }
